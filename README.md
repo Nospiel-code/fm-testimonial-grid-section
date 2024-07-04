@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/Nospiel-code/fm-testimonial-grid-section)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://nospiel-code.github.io/fm-testimonial-grid-section/)
 
 ## My process
 
